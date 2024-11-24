@@ -1,0 +1,33 @@
+#container {
+    min-width: 400px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 7px;
+    box-sizing: border-box;
+}
+
+button {
+    min-width: 75px;
+}
+
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.list {
+    margin: 15px 0;
+}
+
+.list>li {
+    margin: 2px;
+    padding: 5px;
+    background-color: antiquewhite;
+}
